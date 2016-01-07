@@ -1,0 +1,11 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"path": "github.com/lunixbochs/go-keychain",
+			"revision": "c0e87d84daf50878e9c00fd200ef00ab149fe5de",
+			"revisionTime": "2015-02-17T19:07:46-08:00"
+		}
+	]
+}
